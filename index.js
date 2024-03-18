@@ -13,8 +13,8 @@ app.get('/', (req, res) =>{
 
 const template = {
     "is_success" : true,
-    "user_id" : "Abhishek_14102003",
-    "email" : "abhishek0058.be21@chitkara.edu.in",
+    "user_id" : "PARASJAIN",
+    "email" : "paras0995.be21@chitkara.edu.in",
     "roll_number":"2110990058",
     "odd_numbers": [],
     "even_numbers": [],
