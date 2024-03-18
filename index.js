@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(cors());
 
 app.get('/', (req, res) =>{
-  res.send("Welcome to chitkara university bajaj!");
+  res.send("HELLO, BAJAJ!!! PARAS THIS SIDE");
 })
 
 const template = {
